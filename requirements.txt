@@ -3,3 +3,6 @@ numpy
 pandas
 tqdm
 requests
+jupyterlab
+pyspark
+apache-airflow-providers-apache-spark==2.0.1
