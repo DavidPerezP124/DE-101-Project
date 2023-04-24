@@ -1,0 +1,20 @@
+# The pyenv used
+project/
+__pycache__
+
+# Information from notebook checkpoints
+.ipynb_checkpoints/
+
+# Airflow logs
+logs/**
+
+# Environment Variables
+.env
+*.env
+*/*.env
+# MacOS folder info
+.DS_STORE
+*/.DS_STORE
+
+# VSCode dot file
+.vscode
